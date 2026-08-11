@@ -155,11 +155,7 @@ The dashboard is built using the following data columns:
 
 ## 👤 Author
 
-Developed with ❤️ by **[Rajeev Karakoti](https://github.com/rajeevv4)**
+Developed by **[Rajeev Karakoti](https://github.com/rajeevv4)**
 
 ---
-<div align="center">
-<strong>Thank you for exploring this dashboard! </strong>
-<h3>If this project helped you, please consider giving it a ⭐️</h3>
-</div>
 
